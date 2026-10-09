@@ -60,3 +60,5 @@ Open for serious projects. Side effects may include new bugs.
 
 ---
 <sub><i>Mors Certa, Hora Incerta</i> — "Death is certain, the hour is not." So I ship fast.</sub>
+
+<sub>P.S. Kenapa aku menulis semua ini di atas? …Ah, lupakan. Kamu sudah membacanya sampai baris ini, jadi strateginya jelas berhasil.</sub>
