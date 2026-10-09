@@ -24,7 +24,7 @@ I build software, break software, then fix it at 2 AM like nothing happened.
 ```text
 $ supian --status
 
-servers ..... 2 VPS in Singapore (mostly awake, occasionally hungover)
+servers ..... 2 VPS + 4 dedicated servers (mostly awake, occasionally hungover)
 bugs ........ reproduced successfully, fixed reluctantly
 coffee ...... depleted (see also: motivation refill)
 tests ....... "it works on my machine"
