@@ -39,7 +39,7 @@ because one pair of hands was never enough:
 - 🐙 **[@octopyid](https://github.com/octopyid)** — the studio itself. Software with 8 arms:
   two arms write code, six arms fix what the first two broke.
 - 💸 **[@getpoka](https://github.com/getpoka)** — **Poka**, open-core personal finance app.
-  Your money, your data, your rules. Already production-approved on Google Play.
+  Your money, your data, your rules.
 - 🐙 **[@gettako](https://github.com/gettako)** — **Tako**, self-hosted PaaS.
   Deploy apps like throwing containers into the sea. The sea deploys back.
 
